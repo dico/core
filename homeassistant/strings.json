@@ -112,7 +112,7 @@
         "timeout_connect": "Timeout establishing connection"
       },
       "abort": {
-        "single_instance_allowed": "Already configured. Only a single configuration possible.",
+        "single_instance_allowed": "Already configured. Only a single configuration possible. If you cannot find an active integration, please check under deactivated integrations.",
         "already_configured_account": "Account is already configured",
         "already_configured_device": "Device is already configured",
         "already_configured_location": "Location is already configured",
